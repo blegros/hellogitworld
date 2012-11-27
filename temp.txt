@@ -7,3 +7,5 @@ More text
 This is line #2
 
 Yet more text
+
+This is line #3
